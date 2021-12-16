@@ -2,23 +2,23 @@
 
 This is a repository for Telegram bot that will be developed during Intel Academic Program Python Course.
 
-## Set up Python environment
+## Telegram Bot final features
 
-1. Create virtual environment `python -m venv venv`
-2. Activate virtual environment and install requirements: 
+Список доступных команд бота:
 
-    `venv\Scripts\activate` - on Linux
-    
-    `venv\Scripts\activate.bat` - on Windows
-    
-    `pip install -r requirements.txt`
+**Учёба**:
+- /show_list - посмотреть и отредактировать свой список дел
+- /learn_text - выучить стих, текст или форму посредством заполнения пропусков
+- /lofi - знаменитый стрим фоновой музыки для работы
+- /corona - вся полезная информация о коронавирусе и его распространении
 
-## Create your Telegram Bot
+**Отдых**:
+- /cute - заряд мимишности от гифок с милыми животными
+- /get_clip - получи ссылку на видеоклип к любой песне
+- /funny_web - получи ссылку на рандомный бесполезный, но забавный сайт
+- /meme - мемы с самых популярных университетских пабликов
 
-1. Follow official [Telegram instructions](https://core.telegram.org/bots#6-botfather) to create your bot and obtain token.
-2. Insert obtained token to `setup.py` `TOKEN` variable.
-
-## Run your bot
-
-1. Execute ``python chat_bot_template.py``
-2. Try your bot - find it in Telegram and press `/start`.
+**Лайфстайл**:
+- /food - поможет выбрать что приготовить на завтрак, обед, ужин или даже перекус
+- /training <часть тела> - упражнения на любую часть тела, чтобы поддержать себя в форме
+- /mood <настроение> - музыка под настроение
