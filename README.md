@@ -1,9 +1,9 @@
 # Labs and Projects
 Files description in chronological order (newest >>> oldest):
 
-## **Object Detection** *[in progress]*
+## **Object Detection**
 
-Analyze and teach several models (Faster-RCNN, RetinaNet, SSD) to recognize fruits
+Analyze and teach several models (mostly Faster-RCNN) to recognize fruits
 
     Libraries used: torch, torchvision
 
