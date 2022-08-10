@@ -1,3 +1,5 @@
+## [General CV](https://drive.google.com/file/d/1AWEZiTJhAESsDk-6d1ueA1tWMY7HTi7T/view?usp=sharing)
+
 # Labs and Projects
 Files description in chronological order (newest >>> oldest):
 
